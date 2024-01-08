@@ -2,7 +2,7 @@
 /**
  * Prints a version of 99 Bottles of Beer
  * 
- * @author Leo Depew 
+ * @author Michael Depew (@EldieSoft)
  * @version 1.0 1/6/24
  */
 public class NinetyNineBottlesOfBeer {
